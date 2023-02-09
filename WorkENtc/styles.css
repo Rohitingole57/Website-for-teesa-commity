@@ -1,0 +1,41 @@
+footer{
+  height: 100px;
+}
+.mainimg{
+  width: 600px;
+  height: 430px;
+}
+.h11{
+  text-align: center;
+}
+.imgev{
+  width: 350px;
+  height: 300px;
+  box-shadow: 0 0 20px 4px rgba(0, 0, 0, .1);
+transition: 2s;
+margin-left: 30px;
+object-fit: cover;
+border-radius: 5%;
+background-position: center;
+background-size: cover;
+box-shadow: 0px 0px 16px 0px;
+transition: transform .2s;
+}
+.navlinks{
+  margin-left: 100px;
+ }
+.tessa{
+  font-family: 'Akaya Telivigala', cursive;
+  color: rgb(4, 170, 109);
+}
+.right{
+  margin-top: 50px;
+  }
+.logo1{
+  width: 50px;
+  height: 50px;
+}
+.logo{
+  width: 100px;
+  height: 100px;
+}
